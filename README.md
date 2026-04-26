@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
-<h1 align="center">LX Music 移动版</h1>
+<h1 align="center">LX Music 移动版....</h1>
 
 <p align="center">
   <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
